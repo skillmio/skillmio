@@ -24,7 +24,7 @@
 <!-- terceira linha -->
 <p>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skillmio&show_icons=true&include_all_commits=true&locale=pt-pt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skillmio&show_icons=true&include_all_commits=true&locale=pt-pt&number_format=long)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </p>
