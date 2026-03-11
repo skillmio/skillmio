@@ -14,7 +14,7 @@
 
 <!-- Segunda linha -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=skillmio&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile views" style="margin-right:10px;" />
+  
 
   <a href="https://user-badge.committers.top/angola/skillmio">
     <img src="https://user-badge.committers.top/angola/skillmio.svg" alt="Committers badge"/>
@@ -23,8 +23,14 @@
 
 <!-- Terceira linha -->
 <p>
-  
-[![Followers](https://img.shields.io/github/followers/skillmio?label=Followers&style=social)](https://github.com/skillmio?tab=followers)
+
+![Followers](https://img.shields.io/github/followers/skillmio?style=flat-square&color=blue) 
+![Stars](https://img.shields.io/github/stars/skillmio?style=flat-square&color=blue)
+![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repositories&query=public_repos&url=https://api.github.com/users/skillmio&style=flat-square)
+![Forks](https://img.shields.io/github/forks/skillmio/CoSec?style=flat-square&color=blue)
+![Issues](https://img.shields.io/github/issues/skillmio/CoSec?style=flat-square&color=blue)
+![Last Commit](https://img.shields.io/github/last-commit/skillmio/CoSec?style=flat-square&color=blue)
+<img src="https://komarev.com/ghpvc/?username=skillmio&label=Profile%20Views&color=8B5CF6&style=flat-square&color=blue" alt="Profile views" style="margin-right:10px;" />
 
 </p>
 
