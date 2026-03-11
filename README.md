@@ -14,11 +14,21 @@
 
 
 [![committers.top badge](https://user-badge.committers.top/angola/skillmio.svg)](https://user-badge.committers.top/angola/skillmio)
+
+<!-- Segunda linha -->
 <p>
   
 [![Followers](https://img.shields.io/github/followers/skillmio?label=Followers&style=social)](https://github.com/skillmio?tab=followers)
+</p>
+
+<!-- terceira linha -->
+<p>
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skillmio&show_icons=true&include_all_commits=true&locale=pt-pt)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </p>
+
 </div>
 
 
