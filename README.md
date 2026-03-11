@@ -1,6 +1,32 @@
-## Hi there 👋
+
+<!-- Canto superior direito -->
+<div align="right">
+
+
+</div>
+
+
+<!-- Centro direito -->
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&multiline=true&width=435&height=100&lines=Skillmio;Vantagem+Competitiva)](https://git.io/typing-svg)
+
+
+[![committers.top badge](https://user-badge.committers.top/angola/skillmio.svg)](https://user-badge.committers.top/angola/skillmio)
+<p>
+  
+[![Followers](https://img.shields.io/github/followers/skillmio?label=Followers&style=social)](https://github.com/skillmio?tab=followers)
+
+</p>
+</div>
+
+
+
+
 
 <!--
+## Hi there 👋
 **skillmio/skillmio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
