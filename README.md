@@ -25,10 +25,6 @@
 <p>
 
 ![Followers](https://img.shields.io/github/followers/skillmio?style=flat-square&color=blue) 
-![Stars](https://img.shields.io/github/stars/skillmio?style=flat-square&color=blue)
-![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repositories&query=public_repos&url=https://api.github.com/users/skillmio&style=flat-square)
-![Forks](https://img.shields.io/github/forks/skillmio/CoSec?style=flat-square&color=blue)
-![Issues](https://img.shields.io/github/issues/skillmio/CoSec?style=flat-square&color=blue)
 ![Last Commit](https://img.shields.io/github/last-commit/skillmio/CoSec?style=flat-square&color=blue)
 <img src="https://komarev.com/ghpvc/?username=skillmio&label=Profile%20Views&color=8B5CF6&style=flat-square&color=blue" alt="Profile views" style="margin-right:10px;" />
 
@@ -37,7 +33,7 @@
 <!-- Quarta linha -->
 <p>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skillmio&show_icons=true&include_all_commits=true&locale=pt-pt&number_format=long&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skillmio&show_icons=true&include_all_commits=true&locale=pt-pt&number_format=long&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </p>
