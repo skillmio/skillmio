@@ -14,8 +14,8 @@
 
 <!-- Segunda linha -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=skillmio&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile views" />
-  
+  <img src="https://komarev.com/ghpvc/?username=skillmio&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile views" style="margin-right:10px;" />
+
   <a href="https://user-badge.committers.top/angola/skillmio">
     <img src="https://user-badge.committers.top/angola/skillmio.svg" alt="Committers badge"/>
   </a>
