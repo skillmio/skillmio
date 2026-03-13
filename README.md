@@ -15,14 +15,13 @@
 <!-- Segunda linha -->
 <p align="center">
   
+[![committers.top badge](https://user-badge.committers.top/angola_private/skillmio.svg)](https://user-badge.committers.top/angola_private/skillmio)
 
-  <a href="https://user-badge.committers.top/angola/skillmio">
-    <img src="https://user-badge.committers.top/angola/skillmio.svg" alt="Committers badge"/>
-  </a>
 </p>
 
 <!-- Terceira linha -->
 <p>
+  
 
 ![Followers](https://img.shields.io/github/followers/skillmio?style=flat-square&color=blue) 
 ![Last Commit](https://img.shields.io/github/last-commit/skillmio/CoSec?style=flat-square&color=blue)
