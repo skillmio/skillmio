@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&multiline=true&width=435&height=100&lines=Skillmio;Vantagem+Competitiva)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&multiline=true&width=435&height=100&lines=Skillmio;A+sua+vantagem+competitiva)](https://git.io/typing-svg)
 
 <!-- Segunda linha -->
 <p align="center">
