@@ -16,10 +16,10 @@
 <p align="center">
 
 [![committers.top badge](https://user-badge.committers.top/angola/skillmio.svg)](https://user-badge.committers.top/angola/skillmio)
-[![committers.top badge](https://user-badge.committers.top/angola_private/skillmio.svg)](https://user-badge.committers.top/angola_private/skillmio)
 
-[![committers.top badge](https://user-badge.committers.top/worldwide/skillmio.svg)](https://user-badge.committers.top/worldwide/skillmio)
-[![committers.top badge](https://user-badge.committers.top/worldwide_private/skillmio.svg)](https://user-badge.committers.top/worldwide_private/skillmio)
+[![committers.top badge](https://user-badge.committers.top/angola_public/skillmio.svg)](https://committers.top/angola_public/skillmio)
+
+[![committers.top badge](https://user-badge.committers.top/angola_private/skillmio.svg)](https://user-badge.committers.top/angola_private/skillmio)
 
 </p>
 
