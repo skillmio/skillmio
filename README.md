@@ -14,9 +14,11 @@
 
 <!-- Segunda linha -->
 <p align="center">
-  
-[![committers.top Angola badge](https://user-badge.committers.top/angola_private/skillmio.svg)](https://user-badge.committers.top/angola_private/skillmio)
 
+[![committers.top badge](https://user-badge.committers.top/angola/skillmio.svg)](https://user-badge.committers.top/angola/skillmio)
+[![committers.top badge](https://user-badge.committers.top/angola_private/skillmio.svg)](https://user-badge.committers.top/angola_private/skillmio)
+
+[![committers.top badge](https://user-badge.committers.top/worldwide/skillmio.svg)](https://user-badge.committers.top/worldwide/skillmio)
 [![committers.top badge](https://user-badge.committers.top/worldwide_private/skillmio.svg)](https://user-badge.committers.top/worldwide_private/skillmio)
 
 </p>
