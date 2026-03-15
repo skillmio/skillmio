@@ -14,19 +14,18 @@
 
 <!-- Segunda linha -->
 <p align="center">
-
+<!--
 [![committers.top badge](https://user-badge.committers.top/angola/skillmio.svg)](https://user-badge.committers.top/angola/skillmio)
-
 [![committers.top badge](https://user-badge.committers.top/angola_public/skillmio.svg)](https://committers.top/angola_public/skillmio)
-
 [![committers.top badge](https://user-badge.committers.top/angola_private/skillmio.svg)](https://user-badge.committers.top/angola_private/skillmio)
-
+-->
 </p>
 
 <!-- Terceira linha -->
 <p>
   
 
+[![Angola Rank](https://img.shields.io/badge/Angola%20Rank-69-blue?style=flat-square)](https://committers.top/angola_private#skillmio)
 ![Followers](https://img.shields.io/github/followers/skillmio?style=flat-square&color=blue) 
 ![Last Commit](https://img.shields.io/github/last-commit/skillmio/CoSec?style=flat-square&color=blue)
 <img src="https://komarev.com/ghpvc/?username=skillmio&label=Profile%20Views&color=8B5CF6&style=flat-square&color=blue" alt="Profile views" style="margin-right:10px;" />
