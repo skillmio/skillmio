@@ -24,7 +24,7 @@
 <!-- Terceira linha -->
 <p>
   
-[![Worldwide Rank](https://img.shields.io/badge/Worldwide%20Rank-0-blue?style=flat-square)](https://committers.top/worldwide_private#skillmio)
+[![Worldwide Rank](https://img.shields.io/badge/Worldwide%20Rank-0-red?style=flat-square)](https://committers.top/worldwide_private#skillmio)
 [![Angola Rank](https://img.shields.io/badge/Angola%20Rank-69-blue?style=flat-square)](https://committers.top/angola_private#skillmio)
 ![Followers](https://img.shields.io/github/followers/skillmio?style=flat-square&color=blue) 
 ![Last Commit](https://img.shields.io/github/last-commit/skillmio/CoSec?style=flat-square&color=blue)
