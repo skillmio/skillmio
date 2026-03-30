@@ -17,7 +17,7 @@
 
 
 [![committers.top badge](https://user-badge.committers.top/worldwide_private/skillmio.svg)](https://committers.top/worldwide_private/skillmio)
-[![committers.top badge](https://user-badge.committers.top/angola_private/skillmio.svg)](https://user-badge.committers.top/angola_private/skillmio)
+[![committers.top badge](https://user-badge.committers.top/angola_private/skillmio1.svg)](https://user-badge.committers.top/angola_private/skillmio1)
 
 </p>
 
